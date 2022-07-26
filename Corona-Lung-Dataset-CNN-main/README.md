@@ -1,2 +1,0 @@
-Corona Lung Dataset--CNN
-
